@@ -1,0 +1,2 @@
+1. opisac znacznik p, że to semantyczny specjalny znacznik dla tekstu, pisanie luzem w div tez jest spoko, ale p jest semantyczne, przyjmuje ono zawsze 100% szer i wys tekstu. mozemy zwiekszyc go paddingami i tu opisac paddingi.
+2. opisac flex-direction columni flex wrap
